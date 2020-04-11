@@ -51,5 +51,7 @@
      ├── test_data_sampler.py
 ```
 
-
-
+# TO DO: 
+- Setup the documentation for the project using SPHINXX
+- Setup the test environment for the project using NOSE
+- Test the setup on the server => run the file `test_pytorch_installation.py` and the output in the terminal should be a 3x3 random array. 
